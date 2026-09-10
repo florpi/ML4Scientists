@@ -1,7 +1,7 @@
 
 Assignments for NYU's graduate class on Machine Learning for Scientists PHYS-GA 2043 (more information can be found at https://florpi.github.io/ml-for-scientists.html). The goal is to develop a solid foundation and understanding in Machine Learning, so many of the assignments involve implementing different methods from scratch.
 
-# Training a multilayer perceptron from scratch, in JAX
+# A1) Training a multilayer perceptron from scratch, in JAX
 
 A tutorial on what is actually inside `nn.Sequential` and `torch.optim.Adam`.
 
